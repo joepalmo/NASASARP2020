@@ -7,9 +7,14 @@ research projects with that air composition data. My project focused specificall
 By using data analysis and visualization in python coupled with some NASA satellite data, I was able to link the spike to a wildfire in Southern California that
 was raging at the time. 
 
-The code that I wrote contains
--Data wrangling of our huge, ~5000 line and ~200 column database. It contains air composition data for over 100 compounds, taken over 11 years (~40 flights!) in 
+The code that I wrote contains:
+
+Data wrangling of our huge, ~5000 line and ~200 column database. It contains air composition data for over 100 compounds, taken over 11 years (~40 flights!) in 
 the Los Angeles Basin.
--Introductory scatterplots that allow easy and quick comparison between a variety of variables along 4 axes (x, y, color, point size). This was essential for me
-when I was getting started and had to identify potentially interesting projects within the daunting database.
--
+
+Introductory scatterplots that allow easy and quick comparison between a variety of variables along 4 axes (x, y, color, point size). This was essential for me
+when I was getting started and had to identify potentially interesting projects within the dauntingly large database.
+
+3D Mapping code which was useful in visualizing flight paths and the mapping out various compositions over their duration.
+
+And more!
