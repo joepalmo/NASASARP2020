@@ -21,4 +21,4 @@ when I was getting started and had to identify potentially interesting projects 
 
 And more!
 
-My final, virtual presentation can be seen [here!](https://www.youtube.com/watch?v=pfS3BfdLpR0&feature=youtu.be).
+My final, virtual presentation can be seen [here!](https://www.youtube.com/watch?v=pfS3BfdLpR0&feature=youtu.be)
