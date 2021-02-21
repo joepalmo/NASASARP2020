@@ -17,4 +17,6 @@ when I was getting started and had to identify potentially interesting projects 
 
 3D Mapping code which was useful in visualizing flight paths and the mapping out various compositions over their duration.
 
+![3Dgif](CHBr3_2015.gif)
+
 And more!
