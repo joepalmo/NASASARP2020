@@ -20,3 +20,5 @@ when I was getting started and had to identify potentially interesting projects 
 ![3Dgif](CHBr3_2015.gif)
 
 And more!
+
+My final, virtual presentation can be seen [here!](https://www.youtube.com/watch?v=pfS3BfdLpR0&feature=youtu.be).
